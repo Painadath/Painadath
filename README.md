@@ -5,5 +5,4 @@
 - 🌱 I’m currently learning ***python,HTML/CSS, Javascript,Bash***
 - 📫 How to reach me: White Lizard#8408 on Discord
 ![github stats](https://github-readme-stats.vercel.app/api?username=Painadath)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Painadath&layout=compact" alt="remyk888" /></p>
-<br>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekspopovic)
