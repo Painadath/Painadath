@@ -1,5 +1,5 @@
 ### Hi there 👋 
-**! I'm Painadath, but also known as on Tech4Pi or in Discord WhiteLizard**
+**! I'm Painadath, but also known as on Tech4Pi or in Discord as WhiteLizard**
 
 - 🔭 I’m currently working on pi-ware,a app store inspired by Botspot's pi-apps and on a Discord bot called Lizard Bot( Still Under Development i will Publish it as soon as i finish)
 - 🌱 I’m currently learning ***python,HTML/CSS, Javascript,Bash***
