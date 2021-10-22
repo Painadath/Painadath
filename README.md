@@ -6,7 +6,7 @@
 - 📫 How to reach me: White Lizard#8408 on Discord<br><br><br><br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=Painadath&layout=compact)<br><br>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Painadath&layout=compact)<br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Painadath&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Painadath&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
